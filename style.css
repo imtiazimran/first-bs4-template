@@ -4,6 +4,7 @@ body{
 }
 .container{
     margin: 10px auto;
+    overflow: hidden;
 }
 .pagination{
     padding: 32px;
@@ -15,6 +16,9 @@ a.page-link:hover{
 
 .jubotron{
     padding: 32px;
+    overflow: hidden;
+    overflow-wrap: normal;
+    height: 500px;
 }
 .block1{
     font-size: 15px;
@@ -34,4 +38,14 @@ li.lihover:hover {
 .badge{
     font-size: 12px;
     margin-bottom: 16px;
+}
+.aboutMePhoto{
+    position: absolute;
+    width: 430px;
+    position: relative;
+    float: left;
+}
+.jumbotroninfo{
+    margin-left: 150px;
+    padding-left: 100px;
 }
