@@ -39,13 +39,4 @@ li.lihover:hover {
     font-size: 12px;
     margin-bottom: 16px;
 }
-.aboutMePhoto{
-    position: absolute;
-    width: 430px;
-    position: relative;
-    float: left;
-}
-.jumbotroninfo{
-    margin-left: 150px;
-    padding-left: 100px;
-}
+
